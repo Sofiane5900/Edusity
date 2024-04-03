@@ -35,8 +35,8 @@
         margin: auto;
     }
     .hero_text p {
-        max-width: 400px;
-        margin: auto;
+        font-size: 15px;
+        max-width: 15px;
     }
     
 }

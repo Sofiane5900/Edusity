@@ -50,3 +50,17 @@
 }
 
 
+@media screen and (max-width: 850px){
+    .programmes {
+        flex-direction: column;
+    }
+
+    .programme {
+        flex-basis: 100%;
+        margin: 20px;
+    }
+
+
+    
+}
+
